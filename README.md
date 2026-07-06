@@ -43,6 +43,8 @@ Firmware test entries record:
 
 The official daily speed test dataset is stored in [`data/speed-tests.csv`](data/speed-tests.csv).
 
+Post-firmware upgrade performance tests are stored separately in [`data/firmware-tests.csv`](data/firmware-tests.csv).
+
 The dataset uses a simple machine-readable CSV structure:
 
 - `date` — Test date in ISO 8601 format (`YYYY-MM-DD`)
