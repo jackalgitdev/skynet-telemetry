@@ -39,6 +39,19 @@ Firmware test entries record:
 - Upload speed
 - Latency
 
+## 📂 Dataset
+
+The official daily speed test dataset is stored in [`data/speed-tests.csv`](data/speed-tests.csv).
+
+The dataset uses a simple machine-readable CSV structure:
+
+- `date` — Test date in ISO 8601 format (`YYYY-MM-DD`)
+- `download_mbps` — Download speed in Mbps
+- `upload_mbps` — Upload speed in Mbps
+- `latency_ms` — Latency in milliseconds
+
+The daily dataset contains one official test per day. Post-firmware upgrade tests are tracked separately to preserve the integrity of the daily series.
+
 ## 🏆 Current Records
 
 | Metric | Record | Date |
