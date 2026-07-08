@@ -17,9 +17,9 @@ The project began on 17 June 2026 with a simple daily speed test log and has sin
 - 🛜 Router firmware updates
 - ❗ Network events affecting real-world use
 - 🏆 Performance records
+- 🎖️ Achievements
 - 🎯 Milestones
 - 📈 Long-term trends
-- 🎖️ Achievements
 
 ## 🧪 Methodology
 
