@@ -2,6 +2,15 @@
 
 Long-term Starlink performance telemetry tracking speed, latency, firmware updates, network events, records and trends.
 
+## 📡 System Profile
+
+- **Service:** Starlink Residential
+- **Plan:** Residential Max
+- **Kit:** Starlink Standard Kit
+- **Router:** Gen 3 Router
+- **Region:** Queensland, Australia
+- **Collection began:** 17 June 2026
+
 ## About
 
 Skynet Telemetry is a personal long-term monitoring project documenting the real-world performance of a residential Starlink connection in Queensland, Australia.
