@@ -69,7 +69,7 @@ The daily dataset contains one official test per day. Post-firmware upgrade test
 - ⬇️ Download >500 Mbps
 - ⬆️ Upload >55 Mbps
 - ⬆️ Upload >60 Mbps
-- ⚡ Latency <18 ms
+- ⚡ Latency <15 ms
 
 ## 📅 Data Collection
 
