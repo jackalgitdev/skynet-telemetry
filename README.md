@@ -94,10 +94,10 @@ The dataset is collected from a live residential Starlink connection and is inte
 
 <p align="center">
   <a href="https://www.tiktok.com/@jackalmuse">
-    <img src="https://assets.jackalmuse.com/Socials/tiktok.png" alt="TikTok" width="32">
+    <img src="https://assets.jackalmuse.com/Socials/TikTok.PNG" alt="TikTok" width="32">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jackaligram/">
-    <img src="https://assets.jackalmuse.com/Socials/instagram.png" alt="Instagram" width="32">
+    <img src="https://assets.jackalmuse.com/Socials/Instagram.PNG" alt="Instagram" width="32">
   </a>
 </p>
