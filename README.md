@@ -89,3 +89,15 @@ The dataset is collected from a live residential Starlink connection and is inte
 ---
 
 *Skynet Telemetry is an independent personal project and is not affiliated with Starlink or SpaceX.*
+
+<br>
+
+<p align="center">
+  <a href="https://www.tiktok.com/@jackalmuse">
+    <img src="https://assets.jackalmuse.com/Socials/tiktok.png" alt="TikTok" width="32">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jackaligram/">
+    <img src="https://assets.jackalmuse.com/Socials/instagram.png" alt="Instagram" width="32">
+  </a>
+</p>
