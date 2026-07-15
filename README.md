@@ -44,7 +44,6 @@ Firmware test entries record:
 
 - Upgrade type
 - Software version
-- Uptime since upgrade
 - Download speed
 - Upload speed
 - Latency
