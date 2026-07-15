@@ -69,7 +69,7 @@ The daily dataset contains one official test per day. Post-firmware upgrade test
 | Metric | Record | Date |
 |---|---:|---:|
 | ⬇️ Fastest Download | 401 Mbps | 27/06/2026 |
-| ⬆️ Fastest Upload | 52 Mbps | 04/07/2026 |
+| ⬆️ Fastest Upload | 54 Mbps | 16/07/2026 |
 | ⚡ Lowest Latency | 15 ms | 08/07/2026 |
 
 ## 🎯 Active Milestones
