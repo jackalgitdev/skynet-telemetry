@@ -1,4 +1,4 @@
-installation_date,upgrade_type,software_version,uptime_since_upgrade,download_mbps,upload_mbps,latency_ms
+installation_date,upgrade_type,software_version,download_mbps,upload_mbps,latency_ms
 2026-06-26,Router,2026.06.16.mr79645.1,248,36,21
 2026-06-27,Router,2026.06.18.mr79817,283,37,23
 2026-06-27,Starlink,2026.06.18.mr81346,215,38,21
