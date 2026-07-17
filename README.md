@@ -92,11 +92,19 @@ The dataset is collected from a live residential Starlink connection and is inte
 <br>
 
 <p align="center">
+  <a href="https://profile.playstation.com/jackalmuse">
+    <img src="https://assets.jackalmuse.com/PSN.PNG" alt="PlayStation Network" width="32">
+  </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.tiktok.com/@jackalmuse">
-    <img src="https://assets.jackalmuse.com/Socials/TikTok.PNG" alt="TikTok" width="32">
+    <img src="https://assets.jackalmuse.com/TikTok.PNG" alt="TikTok" width="32">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/jackalmuse">
+    <img src="https://assets.jackalmuse.com/X.PNG" alt="X" width="32">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/jackaligram/">
-    <img src="https://assets.jackalmuse.com/Socials/Instagram.PNG" alt="Instagram" width="32">
+    <img src="https://assets.jackalmuse.com/Insta.PNG" alt="Instagram" width="32">
   </a>
 </p>
