@@ -5,3 +5,4 @@ installation_date,upgrade_type,software_version,download_mbps,upload_mbps,latenc
 2026-07-08,Router,2026.06.22.mr80084,386,53,20
 2026-07-10,Starlink,2026.06.24.mr81570,264,50,26
 2026-07-15,Router,2026.07.01.mr80747,151,31,19
+2026-07-18,Starlink,2026.07.09.mr82084.1,139,39,26
