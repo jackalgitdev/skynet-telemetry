@@ -89,6 +89,16 @@ The dataset is collected from a live residential Starlink connection and is inte
 
 ---
 
+<p align="center">
+  <a href="https://starlink.com/residential?referral=RC-500727-18339-12&app_source=share">
+    <img src="https://assets.jackalmuse.com/StarlinkReferralQR.PNG" alt="Starlink referral QR code" width="160">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://starlink.com/residential?referral=RC-500727-18339-12&app_source=share"><strong>Use my Starlink referral link</strong></a>
+</p>
+
 *Skynet Telemetry is an independent personal project and is not affiliated with Starlink or SpaceX.*
 
 <br>
