@@ -91,7 +91,7 @@ The dataset is collected from a live residential Starlink connection and is inte
 
 <p align="center">
   <a href="https://starlink.com/residential?referral=RC-500727-18339-12&app_source=share">
-    <img src="https://assets.jackalmuse.com/StarlinkReferralQR.PNG" alt="Starlink referral QR code" width="160">
+    <img src="https://assets.jackalmuse.com/StarlinkReferralQR.jpg" alt="Starlink referral QR code" width="160">
   </a>
 </p>
 
