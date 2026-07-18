@@ -54,8 +54,10 @@ The official daily speed test dataset is stored in [`data/speed-tests.csv`](data
 
 Post-firmware upgrade performance tests are stored separately in [`data/firmware-tests.csv`](data/firmware-tests.csv).
 
-The dataset uses a simple machine-readable CSV structure:
 The Skynet sequence countdown is available at [Sequence Status](https://jackalmuse.com/starlink/).
+
+The dataset uses a simple machine-readable CSV structure:
+
 - `date` — Test date in ISO 8601 format (`YYYY-MM-DD`)
 - `download_mbps` — Download speed in Mbps
 - `upload_mbps` — Upload speed in Mbps
