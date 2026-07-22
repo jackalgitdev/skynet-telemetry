@@ -48,6 +48,18 @@ Firmware test entries record:
 - Upload speed
 - Latency
 
+### Investigation Thresholds
+
+Not every fluctuation in speed or latency indicates a service issue. Results are treated as normal variability unless they cross an investigation threshold.
+
+A result may warrant closer review or a Starlink debug report if any of the following occur:
+
+- ⬇️ Download speed falls below 100 Mbps
+- ⬆️ Upload speed falls below 20 Mbps
+- ⚡ Latency exceeds 40 ms on its own
+
+Latency above 25 ms is noted as context when download or upload performance is also degraded, but does not warrant investigation by itself.
+
 ## 📂 Dataset
 
 The official daily speed test dataset is stored in [`data/speed-tests.csv`](data/speed-tests.csv).
