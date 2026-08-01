@@ -85,6 +85,16 @@ The daily dataset contains one official test per day. Post-firmware upgrade test
 | ⬆️ Fastest Upload | 56 Mbps | 31/07/2026 |
 | ⚡ Lowest Latency | 15 ms | 08/07/2026 |
 
+## 📊 Current Averages
+
+Based on official daily speed tests through **02/08/2026**.
+
+| Metric | Average |
+|---|---:|
+| ⬇️ Download | 278.14 Mbps |
+| ⬆️ Upload | 36.68 Mbps |
+| ⚡ Latency | 21.59 ms |
+
 ## 🎯 Active Milestones
 
 - ⬇️ Download >450 Mbps
