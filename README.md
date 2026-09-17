@@ -137,7 +137,7 @@ The dataset is collected from a live residential Starlink connection and is inte
     <img src="https://jackalmuse.com/assets/x-social-v47.png" alt="X" width="32">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jackaligram">
+  <a href="https://www.instagram.com/itsjackalmuse">
     <img src="https://jackalmuse.com/assets/instagram-social-v47.png" alt="Instagram" width="32">
   </a>
 </p>
