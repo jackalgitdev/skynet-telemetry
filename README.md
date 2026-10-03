@@ -87,13 +87,13 @@ The daily dataset contains one official test per day. Post-firmware upgrade test
 
 ## 📊 Current Averages
 
-Based on official daily speed tests through **28/09/2026**.
+Based on official daily speed tests through **04/10/2026**.
 
 | Metric | Average |
 |---|---:|
-| ⬇️ Download | 285.28 Mbps |
-| ⬆️ Upload | 37.77 Mbps |
-| ⚡ Latency | 21.63 ms |
+| ⬇️ Download | 286.07 Mbps |
+| ⬆️ Upload | 37.80 Mbps |
+| ⚡ Latency | 21.58 ms |
 
 ## 🎯 Active Milestones
 
