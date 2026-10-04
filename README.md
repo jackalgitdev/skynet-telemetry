@@ -61,17 +61,6 @@ Power observations record:
 - Current power draw
 - Sample duration
 
-Starlink terminal firmware updates may also include a 15-minute power snapshot when available.
-
-Power observations record:
-
-- Measurement date
-- Firmware installation date
-- Software version
-- Average power draw
-- Current power draw
-- Sample duration
-
 Power usage is not collected daily and is not intended to represent continuous or full-day energy consumption. It is used as a lightweight firmware-to-firmware comparison metric.
 
 ### Investigation Thresholds
