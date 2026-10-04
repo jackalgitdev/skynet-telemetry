@@ -1,6 +1,6 @@
 # 📡 Skynet Telemetry
 
-Long-term Starlink performance telemetry tracking speed, latency, firmware updates, network events, records and trends.
+Long-term Starlink telemetry tracking speed, latency, firmware updates, power usage, network events, records and trends.
 
 ## 📡 System Profile
 
@@ -15,7 +15,7 @@ Long-term Starlink performance telemetry tracking speed, latency, firmware updat
 
 Skynet Telemetry is a personal long-term monitoring project documenting the real-world performance of a residential Starlink connection in Queensland, Australia.
 
-The project began on 17 June 2026 with a simple daily speed test log and has since expanded to track performance trends, firmware changes, notable network events, records and milestones.
+The project began on 17 June 2026 with a simple daily speed test log and has since expanded to track performance trends, firmware changes, firmware-linked power usage, notable network events, records and milestones.
 
 ## 📊 What is tracked
 
@@ -23,12 +23,14 @@ The project began on 17 June 2026 with a simple daily speed test log and has sin
 - ⬆️ Upload speed
 - ⚡ Latency
 - 📡 Starlink firmware updates
+- 🔌 Starlink power draw following terminal firmware updates
 - 🛜 Router firmware updates
 - ❗ Network events affecting real-world use
 - 🏆 Performance records
 - 🎖️ Achievements
 - 🎯 Milestones
 - 📈 Long-term trends
+
 
 ## 🧪 Methodology
 
@@ -48,6 +50,30 @@ Firmware test entries record:
 - Upload speed
 - Latency
 
+Starlink terminal firmware updates may also include a 15-minute power snapshot when available.
+
+Power observations record:
+
+- Measurement date
+- Firmware installation date
+- Software version
+- Average power draw
+- Current power draw
+- Sample duration
+
+Starlink terminal firmware updates may also include a 15-minute power snapshot when available.
+
+Power observations record:
+
+- Measurement date
+- Firmware installation date
+- Software version
+- Average power draw
+- Current power draw
+- Sample duration
+
+Power usage is not collected daily and is not intended to represent continuous or full-day energy consumption. It is used as a lightweight firmware-to-firmware comparison metric.
+
 ### Investigation Thresholds
 
 Not every fluctuation in speed or latency indicates a service issue. Results are treated as normal variability unless they cross an investigation threshold.
@@ -66,6 +92,8 @@ The official daily speed test dataset is stored in [`data/speed-tests.csv`](data
 
 Post-firmware upgrade performance tests are stored separately in [`data/firmware-tests.csv`](data/firmware-tests.csv).
 
+Post-firmware Starlink power observations are stored separately in [`data/power-tests.csv`](data/power-tests.csv).
+
 The Skynet sequence countdown is available at [Sequence Status](https://jackalmuse.com/starlink/).
 
 The dataset uses a simple machine-readable CSV structure:
@@ -75,7 +103,16 @@ The dataset uses a simple machine-readable CSV structure:
 - `upload_mbps` — Upload speed in Mbps
 - `latency_ms` — Latency in milliseconds
 
-The daily dataset contains one official test per day. Post-firmware upgrade tests are tracked separately to preserve the integrity of the daily series.
+The power dataset uses:
+
+- `measurement_date` — Date the power snapshot was recorded
+- `firmware_installation_date` — Date the associated Starlink firmware was installed
+- `software_version` — Starlink firmware version
+- `average_w` — Average power draw during the sample
+- `current_w` — Instantaneous power draw at capture
+- `sample_minutes` — Duration of the available power sample
+
+The daily dataset contains one official test per day. Post-firmware upgrade performance tests and Starlink power observations are tracked separately to preserve the integrity of the daily series.
 
 ## 🏆 Current Records
 
