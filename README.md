@@ -175,8 +175,7 @@ Using this link also supports jackalmuse through a referral reward. [View the re
   &nbsp;
   <a href="https://www.tiktok.com/@jackalmuse" title="TikTok"><img src="assets/icons/tiktok-v107.png" alt="TikTok" width="56" height="56"></a>
   &nbsp;
-  <a href="https://x.com/jackalmuse" title="X"><img src="assets/icons/x-v107.png" alt="X" width="56" height="56"></a>
-  &nbsp;
+   <a href="https://x.com/itsjackalmuse?s=11" title="X"><img src="assets/icons/x-v107.png" alt="X" width="56" height="56"></a>
   <a href="https://github.com/jackalgitdev" title="GitHub"><img src="assets/icons/github-v107.png" alt="GitHub" width="56" height="56"></a>
   &nbsp;
   <a href="https://suno.com/@jackalmuse" title="Suno"><img src="assets/icons/suno-v107.png" alt="Suno" width="56" height="56"></a>
