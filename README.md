@@ -123,10 +123,21 @@ Based on official daily speed tests through **22/10/2026**.
 
 ## 🎯 Active Milestones
 
+### 📈 Performance Milestones
+
 - ⬇️ Download >450 Mbps
 - ⬇️ Download >500 Mbps
 - ⬆️ Upload >60 Mbps
 - ⚡ Latency <15 ms
+
+### 🧪 Official Tests Recorded
+
+- 🏆 **100 tests — Achieved 21 October 2026**
+- 🎯 250 tests
+- 🎯 500 tests
+- 🎯 800 tests
+- 🎯 1,000 tests
+
 
 ## 📅 Data Collection
 
